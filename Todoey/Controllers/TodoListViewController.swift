@@ -21,6 +21,7 @@ class TodoListViewController: UITableViewController {
         
         loadItems()
         
+        
     }
     
     //MARK - Tableview Datasource Methods
